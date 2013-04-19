@@ -38,8 +38,8 @@ char* removeLastSlash(const char* input)
 int main(int argc, const char* argv[])
 {
 
-
-	string coronaCommand = "/Applications/CoronaSDK/CoronaTerminal ";
+	//The path changed on corona update 2013.1076
+	string coronaCommand = "/Applications/CoronaSDK/Corona\\ Terminal ";
 
 	cout << TERM_BG_BLUE << TERM_RED << "Corona SDK command Tool by Jose Llausas" << endl;
 
