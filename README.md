@@ -1,5 +1,5 @@
 # coronaSDKOpener by JoseLlau
-					jose @ zunware.com
+					jose@josellausas.com
 
 
 A simple command line tool for opening corona simulator. To install simply copy
