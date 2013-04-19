@@ -39,7 +39,7 @@ int main(int argc, const char* argv[])
 {
 
 
-	string coronaCommand = "/Applications/CoronaSDK/CoronaTerminal ";
+	string coronaCommand = "/Applications/CoronaSDK/Corona\\ Terminal ";
 
 	cout << TERM_BG_BLUE << TERM_RED << "Corona SDK command Tool by Jose Llausas" << endl;
 
