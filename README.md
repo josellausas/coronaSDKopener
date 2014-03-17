@@ -1,11 +1,10 @@
-# coronaSDKOpener by JoseLlau
-					jose@josellausas.com
-
+coronaSDKopener
+===============
 
 A simple command line tool for opening corona simulator. To install simply copy
-the corona executable into /usr/bin
+the corona executable into /usr/bin. This has only been tested for OSX. Windows is not supported right now.
 
-## USAGE:
+### USAGE:
 $corona     -> Opens corona simluator (Same as opening coronaTerminal from the
 				SDK folder)
 
